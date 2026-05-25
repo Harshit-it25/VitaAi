@@ -107,6 +107,7 @@ Contributions, issues, and feature requests are welcome!
 ## 👤 Author
 
 **Harshit Ranbhare**
+**Ajinkya Supate**
 
 ---
 
